@@ -1,0 +1,17 @@
+Emerick Salmon
+
+Exercices Git et GitHub - partie 3 Activité
+
+1. Qu'est-ce qu'un commit;
+
+	La fonction commit permet d'enregistrer l'état actuel des fichiers trackés par git et d'y associer une sorte de clef appeller un "sha". Il faudra y associer un commentaire pour si retrouver, c'est possible avec l'option -m ex: git commit -m "Mon commentaire". En câs d'oublis git te demandera d'entrer un commentaire puis il sauvegardera. L'option -a permet de enregistrer tous les fichiers aillant déjà été sauvés au paravant.
+
+
+2. A quoi sert la commande git log;
+
+	La commande 'git log' sert à afficher l'historique de tout les commits effectués sur le proget courant. Pour chaque commits on y retrouve la date et heure, le nom de l'utilisateur, le commantaire, et le 'sha' qui permet la restauration des fichiers à l'état du commit en question.
+
+
+3. Qu'est-ce qu'une branche;
+
+	Si tu veut modifier ton projet mais que tu n'est pas sur de concerver ce que tu va ajouter tu peut créer une nouvelle branche à ton suivi git. Elle te permet de continuer le developpement normal de ton projet d'un coter, et de l'autre créer les choses que tu n'est pas sùr de concerver sur la version final. Tu poura soit fusionner ces deux branches pour concerver les modifications ou supprimer la branche créer pour faire des essais. 
