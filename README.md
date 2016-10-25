@@ -1,3 +1,3 @@
 # Initiation_a_github
-Mon premier repository
 
+Proget créer lors de la formation a git hub sur OpenClassRooms
